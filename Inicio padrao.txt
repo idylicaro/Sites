@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<!-- @Idyl Icaro -->
+
+<html lang="pt-br">
+	<head>
+		<meta charset="utf-8">
+		<title>Photographics</title>
+		<!-- Arquivo Materialize.css -->
+		<link rel="stylesheet" type="text/css" href="materialize.css">
+	</head>
+	<body>
+
+	<!-- Api Jquery -->
+	<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+	<!-- Arquivo Materialize.css -->
+	<script src="materialize.js" type="text/javascript"></script>
+	<footer></footer>
+	</body>
+</html>
