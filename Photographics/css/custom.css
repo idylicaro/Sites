@@ -3,6 +3,16 @@ html{
 	font-weight: 250;
 
 }
+/*Tamanho do parallax */
 .parallax-container{
 	height: 600px;
+}
+.parallax-title{
+	margin-top: 300px;
+}
+.parallax-text{
+	font-weight: 250;
+}
+.perfil-info{
+	height: 250px;
 }
